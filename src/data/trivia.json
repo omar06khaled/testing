@@ -1,0 +1,411 @@
+{
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        {
+          "name": "Sky & Space",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "This glowing tail forms when sunlight warms a comet's surface.",
+              "responses": ["what is a coma", "what is a tail", "what is the comet tail"],
+              "alt": ["what is a gas tail"],
+              "notes": "Coma and tail are both acceptable."
+            },
+            {
+              "value": 400,
+              "clue": "The nearest star to Earth after the Sun has this two-word name.",
+              "responses": ["what is proxima centauri"],
+              "notes": "Alpha Centauri A/B is not the closest."
+            },
+            {
+              "value": 600,
+              "clue": "This layer of Earth's atmosphere is where most weather happens.",
+              "responses": ["what is the troposphere"],
+              "notes": "Tropo- = turn/change."
+            },
+            {
+              "value": 800,
+              "clue": "The bright band across the night sky is our galaxy viewed from within; it's called this.",
+              "responses": ["what is the milky way"],
+              "alt": ["what is the milky way galaxy"]
+            },
+            {
+              "value": 1000,
+              "clue": "This atmospheric phenomenon creates colorful lights near the poles when solar particles meet Earth's magnetic field.",
+              "responses": ["what is the aurora", "what are the northern lights", "what are auroras"],
+              "alt": ["what are the southern lights"]
+            }
+          ]
+        },
+        {
+          "name": "Kitchen Science",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "A batter rises because this gas is released when baking soda reacts with acid.",
+              "responses": ["what is carbon dioxide", "what is CO2"]
+            },
+            {
+              "value": 400,
+              "clue": "The process that turns sugar brown and nutty at high heat is this reaction.",
+              "responses": ["what is the maillard reaction", "what is maillard"]
+            },
+            {
+              "value": 600,
+              "clue": "Resting dough lets this protein network relax for easier shaping.",
+              "responses": ["what is gluten"],
+              "notes": "Gluten relaxes with rest."
+            },
+            {
+              "value": 800,
+              "clue": "Clarified butter with milk solids removed is called this in South Asian cooking.",
+              "responses": ["what is ghee"],
+              "alt": ["what is clarified butter"]
+            },
+            {
+              "value": 1000,
+              "clue": "This temperature range is known as the food safety 'danger zone' in Fahrenheit.",
+              "responses": ["what is 40 to 140 degrees", "what is 40-140 degrees", "what is 41 to 135 degrees"],
+              "notes": "Accept common ranges like 40-140°F or 41-135°F."
+            }
+          ]
+        },
+        {
+          "name": "Map It Out",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "This U.S. state is nicknamed the 'Sunshine State'.",
+              "responses": ["what is florida"]
+            },
+            {
+              "value": 400,
+              "clue": "The world's longest river by length is often cited as this one in South America.",
+              "responses": ["what is the amazon", "what is the amazon river"]
+            },
+            {
+              "value": 600,
+              "clue": "This is the only U.S. state that borders only one other state.",
+              "responses": ["what is maine"],
+              "notes": "Maine borders only New Hampshire."
+            },
+            {
+              "value": 800,
+              "clue": "Mount Kilimanjaro rises in this African country.",
+              "responses": ["what is tanzania"]
+            },
+            {
+              "value": 1000,
+              "clue": "The city of Reykjavik sits on this island nation.",
+              "responses": ["what is iceland"]
+            }
+          ]
+        },
+        {
+          "name": "Sound & Music",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "This tempo marking means 'slow'.",
+              "responses": ["what is adagio", "what is largo"],
+              "notes": "Accept common slow tempo markings."
+            },
+            {
+              "value": 400,
+              "clue": "A standard orchestral tuning pitch is this note at 440 Hz.",
+              "responses": ["what is A", "what is A4"]
+            },
+            {
+              "value": 600,
+              "clue": "A three-note chord built from the root, third, and fifth is called this.",
+              "responses": ["what is a triad"],
+              "alt": ["what is a major triad", "what is a minor triad"]
+            },
+            {
+              "value": 800,
+              "clue": "This Italian term on sheet music means 'gradually getting louder'.",
+              "responses": ["what is crescendo"],
+              "alt": ["what is cresc."]
+            },
+            {
+              "value": 1000,
+              "clue": "The lowest female singing voice is this.",
+              "responses": ["what is contralto"],
+              "alt": ["what is alto"]
+            }
+          ]
+        },
+        {
+          "name": "Word Workshop",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "A word that imitates a sound, like 'buzz,' is this part of speech.",
+              "responses": ["what is onomatopoeia"],
+              "alt": ["what is an onomatopoeia word"]
+            },
+            {
+              "value": 400,
+              "clue": "A palindrome reads the same forward and backward, like this three-letter word for a level or tier.",
+              "responses": ["what is 'level'", "what is level"],
+              "notes": "Accept 'level'."
+            },
+            {
+              "value": 600,
+              "clue": "The prefix 'bi-' means this number.",
+              "responses": ["what is two"],
+              "alt": ["what is 2"]
+            },
+            {
+              "value": 800,
+              "clue": "A word that is spelled the same but pronounced differently with different meanings is a this.",
+              "responses": ["what is a heteronym"],
+              "alt": ["what is a heterophone"]
+            },
+            {
+              "value": 1000,
+              "clue": "The study of word origins is known as this.",
+              "responses": ["what is etymology"],
+              "alt": ["what is word origin study"]
+            }
+          ]
+        },
+        {
+          "name": "Invented Here",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "The microwave oven was inspired by a melted chocolate bar in this inventor's pocket.",
+              "responses": ["who is percy spencer", "who is spencer"],
+              "notes": "Percy Spencer."
+            },
+            {
+              "value": 400,
+              "clue": "This everyday fastening device was inspired by burrs sticking to clothing.",
+              "responses": ["what is velcro"],
+              "alt": ["what is hook-and-loop fastener"]
+            },
+            {
+              "value": 600,
+              "clue": "The modern safety bicycle popularized in the 1880s had this defining feature: two wheels of this size relation.",
+              "responses": ["what are equal-sized wheels", "what are same-sized wheels"]
+            },
+            {
+              "value": 800,
+              "clue": "The first practical ballpoint pen was commercialized by this Hungarian-Argentine inventor.",
+              "responses": ["who is laszlo biro", "who is bíró", "who is biro"]
+            },
+            {
+              "value": 1000,
+              "clue": "The term 'robot' was introduced in a 1920 play by this Czech writer.",
+              "responses": ["who is karel capek", "who is čapek", "who is capek"]
+            }
+          ]
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        {
+          "name": "Green World",
+          "clues": [
+            {
+              "value": 400,
+              "clue": "Plants make food using sunlight in this process.",
+              "responses": ["what is photosynthesis"]
+            },
+            {
+              "value": 800,
+              "clue": "The movement of water through a plant and out its leaves is this.",
+              "responses": ["what is transpiration"]
+            },
+            {
+              "value": 1200,
+              "clue": "This plant tissue carries water upward from roots.",
+              "responses": ["what is xylem"]
+            },
+            {
+              "value": 1600,
+              "clue": "These structures on leaves open and close to regulate gas exchange.",
+              "responses": ["what are stomata", "what are stomates"]
+            },
+            {
+              "value": 2000,
+              "clue": "A plant adapted to dry environments is called this.",
+              "responses": ["what is a xerophyte"],
+              "alt": ["what is a drought-tolerant plant"]
+            }
+          ]
+        },
+        {
+          "name": "Modern Mythmaking",
+          "clues": [
+            {
+              "value": 400,
+              "clue": "An origin story that explains a hero's first powers is often called this type of tale.",
+              "responses": ["what is an origin story"],
+              "alt": ["what is a genesis tale"]
+            },
+            {
+              "value": 800,
+              "clue": "A mentor who gives a quest and a magical tool plays this role in mythic structure.",
+              "responses": ["what is the mentor archetype", "what is the wise mentor"]
+            },
+            {
+              "value": 1200,
+              "clue": "In story structure, the event that thrusts the hero into action is called the this incident.",
+              "responses": ["what is the inciting incident"],
+              "alt": ["what is the call to adventure"]
+            },
+            {
+              "value": 1600,
+              "clue": "A character who changes allegiance to help the hero is this kind of figure.",
+              "responses": ["what is a turncoat", "what is a defector", "what is a redeemed ally"]
+            },
+            {
+              "value": 2000,
+              "clue": "A mythic object with its own will or corruption effect is often called a this artifact.",
+              "responses": ["what is a cursed artifact", "what is a cursed relic"]
+            }
+          ]
+        },
+        {
+          "name": "Numbers & Logic",
+          "clues": [
+            {
+              "value": 400,
+              "clue": "A prime number has exactly this many positive divisors.",
+              "responses": ["what is two"],
+              "alt": ["what is 2"]
+            },
+            {
+              "value": 800,
+              "clue": "A triangle with all sides equal is this type.",
+              "responses": ["what is equilateral"],
+              "alt": ["what is an equilateral triangle"]
+            },
+            {
+              "value": 1200,
+              "clue": "The binary representation of the decimal number 5 is this.",
+              "responses": ["what is 101"],
+              "alt": ["what is 0b101"]
+            },
+            {
+              "value": 1600,
+              "clue": "In logic, a statement that is always true is called this.",
+              "responses": ["what is a tautology"],
+              "alt": ["what is always true"]
+            },
+            {
+              "value": 2000,
+              "clue": "The value of pi rounded to two decimal places is this.",
+              "responses": ["what is 3.14"]
+            }
+          ]
+        },
+        {
+          "name": "Trail & Travel",
+          "clues": [
+            {
+              "value": 400,
+              "clue": "This trail network connects Mexico to Canada along the western United States.",
+              "responses": ["what is the pacific crest trail", "what is PCT"]
+            },
+            {
+              "value": 800,
+              "clue": "A traveler's backpack with internal supports for weight distribution is called this.",
+              "responses": ["what is an internal frame pack"],
+              "alt": ["what is an internal-frame backpack"]
+            },
+            {
+              "value": 1200,
+              "clue": "This compact shelter uses trekking poles instead of dedicated tent poles.",
+              "responses": ["what is a trekking pole tent"],
+              "alt": ["what is a tarp tent"]
+            },
+            {
+              "value": 1600,
+              "clue": "The travel term for visiting a location during its busiest season is this.",
+              "responses": ["what is peak season"],
+              "alt": ["what is high season"]
+            },
+            {
+              "value": 2000,
+              "clue": "A multi-day hiking route that returns to the starting point is known as a this.",
+              "responses": ["what is a loop", "what is a loop trail"]
+            }
+          ]
+        },
+        {
+          "name": "Design Matters",
+          "clues": [
+            {
+              "value": 400,
+              "clue": "This principle makes related items appear grouped to communicate relationships.",
+              "responses": ["what is proximity"],
+              "alt": ["what is grouping"]
+            },
+            {
+              "value": 800,
+              "clue": "A two-tone scheme using colors opposite each other on the color wheel is this.",
+              "responses": ["what is complementary color scheme", "what is complementary colors"]
+            },
+            {
+              "value": 1200,
+              "clue": "The empty area around content is called this.",
+              "responses": ["what is whitespace", "what is negative space"]
+            },
+            {
+              "value": 1600,
+              "clue": "This grid concept aligns elements to consistent columns and rows.",
+              "responses": ["what is a layout grid", "what is a grid system"]
+            },
+            {
+              "value": 2000,
+              "clue": "Typography measurement for the vertical space between lines is this.",
+              "responses": ["what is leading", "what is line height"]
+            }
+          ]
+        },
+        {
+          "name": "Fresh Tech",
+          "clues": [
+            {
+              "value": 400,
+              "clue": "This wireless standard is commonly used for short-range device connections.",
+              "responses": ["what is bluetooth"]
+            },
+            {
+              "value": 800,
+              "clue": "A program that converts source code into machine code ahead of time is a this.",
+              "responses": ["what is a compiler"]
+            },
+            {
+              "value": 1200,
+              "clue": "This term describes software updates that fix security issues and bugs.",
+              "responses": ["what are patches", "what are updates"]
+            },
+            {
+              "value": 1600,
+              "clue": "A device that converts digital signals to analog for speakers is a this.",
+              "responses": ["what is a DAC", "what is a digital-to-analog converter"]
+            },
+            {
+              "value": 2000,
+              "clue": "A 'zero-day' refers to this type of software flaw.",
+              "responses": ["what is an undisclosed vulnerability", "what is an unpatched vulnerability"]
+            }
+          ]
+        }
+      ]
+    },
+    "final": {
+      "category": "Timekeeping",
+      "clue": "It was created in 1582 to correct drift in the calendar and is now the most widely used civil calendar.",
+      "responses": ["what is the gregorian calendar"],
+      "alt": ["what is gregorian"],
+      "notes": "Pope Gregory XIII." 
+    }
+  }
+}
